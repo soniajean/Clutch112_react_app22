@@ -1,0 +1,19 @@
+#q-span {
+    font-weight: 900;
+
+}
+#inc-btn {
+margin-left: 10px;
+}
+#dec-btn {
+margin-right: 10px;
+}
+
+#p-img {
+    max-width: 200px;
+    max-height: auto;
+}
+
+#r-item {
+    margin-top: 10px;
+}
